@@ -25,8 +25,6 @@ async def query_document(request: QueryRequest) -> QueryResponse:
         chroma_service = ChromaService()
         chunks, _ = chroma_service.search(
             query=request.query,
-            top_k=5,
-            search_type="mmr"
         )
         logger.info("Retrieved %d chunks from ChromaDB", len(chunks))
         

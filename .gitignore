@@ -2,3 +2,5 @@
 .env
 kadena-docs/
 chroma.log
+/chromadb
+/services/__pycache__

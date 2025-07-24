@@ -51,12 +51,7 @@ class LLMService:
             str: Generated answer
         """
         logger.info("Generating answer for query: %s", query)
-        prompt = f'''You are a helpful assistant that answers questions about Kadena blockchain.
-Use the following context to answer the question. 
-
-Context:
-{context}
-
+        prompt = f'''
 Question: {query}
 
 Answer:'''
@@ -66,7 +61,24 @@ Answer:'''
             messages=[
                 {
                     "role": "system",
-                    "content": "You are a helpful assistant that answers questions about Kadena blockchain."
+                    "content": """
+                    You are an expert Kadena blockchain assistant. Provide accurate, detailed answers about Kadena technology, Pact smart contracts, ecosystem projects, and development tools.
+
+                    Key Rules:
+                    - Only use information from the provided context - never make up details
+                    - Include relevant links at the end of the answer
+                    - Distinguish between official Kadena docs and third-party ecosystem projects
+                    - Use **bold** for key terms and `code formatting` for technical terms
+
+                    Context Sources:
+                    - Documentation: Official technical docs and guides
+                    - Ecosystem: Third-party projects, wallets, and services  
+                    - Official Info: Kadena company information and links
+                    - Community: FAQs and troubleshooting tips
+
+                    Context:
+                    {context}
+                    """
                 },
                 {
                     "role": "user",
@@ -94,6 +106,7 @@ Instructions:
 - Do not fabricate or infer missing information
 - Make the result easy for another model to read and use as direct context
 - Ensure all the important information from the retrieved chunks is present
+- Remove all markdown formatting, and return as text.
 
 Below is the raw retrieved data:
 ---

@@ -1,0 +1,38 @@
+Kadena Ecosystem Projects Summary
+========================================
+
+Community Grantees:
+  - Chips
+  - Crankk
+  - DNA
+  - Hypercent
+  - KadCars-NFT
+  - Swarms-finance
+  - UNITT
+  - Wizards-Arena
+  - Bro-Dex
+  - Cyberfly-io
+  - kadena-explorer
+  - kadenai
+
+DeFi Grantees:
+  - KDSwap
+  - Mercatus
+
+Non-Custodial Grantees:
+  - LinxWallet
+  - Magic
+  - koala-wallet
+  - enkrypt
+  - eckowallet
+  - zelcore
+
+Solutions Grantees:
+  - DIA
+  - Eucalyptus-Labs
+  - Hack-a-Chain
+  - Ideasoft
+  - Obsidian-Systems
+  - Simplex
+  - marmalade-ng
+

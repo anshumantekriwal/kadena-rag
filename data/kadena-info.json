@@ -1,0 +1,77 @@
+[
+  {
+    "content": "🌐 Website of Kadena: https://kadena.io/\n📱Socials of Kadena\nKadena on X/Twitter: https://twitter.com/kadena_Io\nKadena on Telegram: https://t.me/kadena_io\nKadena on Discord: https://discord.gg/kadena\nKadena on Reddit: https://www.reddit.com/r/kadena/\nKadena on LinkedIn https://www.linkedin.com/company/kadena-llc/",
+    "source": "kadena-info",
+    "title": "Kadena Website and Social Media"
+  },
+  {
+    "content": "Information about KDA including Exchanges where the token KDA is listed\nCoinMarketCap: https://coinmarketcap.com/currencies/kadena\nCoinGecko: https://www.coingecko.com/en/coins/kadena\n\n📚 Documentation of Kadena can be found here: https://docs.kadena.io/\n\n💻 Developer Tools for Kadena: https://tools.kadena.io/",
+    "source": "kadena-info",
+    "title": "KDA Token Information and Developer Resources"
+  },
+  {
+    "content": "🛠️ Kadena has two main GitHub repositories: 1. https://github.com/kadena-io 2. https://github.com/kadena-community | Both are official repositories by the Kadena team, no community repositories.",
+    "source": "kadena-info",
+    "title": "Official GitHub Repositories"
+  },
+  {
+    "content": "🧪 Testnet Portal of Kadena: http://testnet.chainweb.com/\nFund accounts on testnet via https://tools.kadena.io/faucet/existing for existing accounts and https://tools.kadena.io/faucet/new for new accounts [Goliath faucet has nothing to do with it]. The faucet will give you 100 KDA per request for the chain you select (chain 0-19)",
+    "source": "kadena-info",
+    "title": "Testnet and Faucet Information"
+  },
+  {
+    "content": "🧩 Nodes for Kadena including setup here: https://docs.kadena.io/contribute/node\n[IMPORTANT: Nodes can not be used to mine KDA. You need an ASIC miner by Bitmain, Goldshell, or iBeLink. Those are all three manufacturers that produce those ASIC miners. No one else produces them right now.]",
+    "source": "kadena-info",
+    "title": "Node Setup and Mining Requirements"
+  },
+  {
+    "content": "🔍Official Block Explorer: https://explorer.chainweb.com/mainnet and a great third party explorer by Eucalyptus Labs:: https://kdaexplorer.com/\n\n⚖️ Official Balance Checker to check the balance of KDA and other tokens: https://balance.chainweb.com/\n💫 Simple Javascript Tools to transfer Kadena coins: https://transfer.chainweb.com/\nTo finish or finalize a cross-chain transaction that got stuck, you can use https://tools.kadena.io/transactions/cross-chain-transfer-finisher or https://transfer.chainweb.com/xchain.html [the KDA Command line tool or Chainweaver won't work for that request]",
+    "source": "kadena-info",
+    "title": "Block Explorers and Transaction Tools"
+  },
+  {
+    "content": "🌱Is there a website listing all the projects building on Kadena? Projects on Kadena can be found here: https://www.kadena.io/ecosystem or here: https://kadenaecosystem.com (Even those who aren't endorsed by the official team )",
+    "source": "kadena-info",
+    "title": "Kadena Ecosystem Projects"
+  },
+  {
+    "content": "Token Contracts\nThe following is a list of token tickers plus their contract address and their twitter account in the following format: Symbol - Token Contract Address - Twitter Account\n\nKDA - Token Contract Address: \"coin\" [NOT \"coin.kadena\"] - https://twitter.com/kadena_io\nKDX - Token Contract Address: \"kaddex.kdx\" - https://twitter.com/eckoDAO\nHYPE - Token Contract Address: \"hypercent.prod-hype-coin\" - https://twitter.com/hypercentpad\nKDS - Token Contract Address: \"kdlaunch.kdswap-token\" - https://twitter.com/KdSwap\nKDL - Token Contract Address: \"kdlaunch.token\" - https://twitter.com/KdLaunch | https://x.com/KD_Labs\nFLUX - Token Contract Address: \"runonflux.flux\" - https://twitter.com/RunOnFlux\nCRKK - Token Contract Address: \"free.crankk01\" - https://twitter.com/crankk_io\nWIZA - Token Contract Address: \"free.wiza\" - https://twitter.comWizardsarena\nZUSD - Token Contract Address: \"n_b742b4e9c600892af545afb408326e82a6c0c6ed.zUSD\" - https://twitter.com/eckoDAO\nHeron - Token Contract Address: \"n_e309f0fa7cf3a13f93a8da5325cdad32790d2070.heron\" - https://twitter.com/HeronHeroesKDA\nFINUX - \"free.finux\" - https://x.com/finulab\nKToshi - \"n_625e9938ae84bdb7d190f14fc283c7a6dfc15d58.ktoshi\" - https://x.com/ktoshis/\nBRO - \"n_582fed11af00dc626812cd7890bb88e72067f28c.bro\" - https://x.com/thebrothersdao\nUNITT - \"n_ebe54249b2e9d68f5060961f3c419f8288d18dc2.unitt\" - https://x.com/UNITT_io\nCWC - \"n_c89f6bb915bf2eddf7683fdea9e40691c840f2b6.cwc\" - https://x.com/GuardiansofKDA",
+    "source": "kadena-info",
+    "title": "Token Contract Addresses and Social Links"
+  },
+  {
+    "content": "Team Size\nThe team size of Kadena is currently at ~70 team members. The team size of Kadena is currently at ~70 team members.",
+    "source": "kadena-info",
+    "title": "Kadena Team Size"
+  },
+  {
+    "content": "Roadmap\nWe at Kadena are transitioning to a new strategy for our roadmaps and project announcements. Rather than following a set roadmap, we plan to offer broad, transparent updates. Our commitment is to build in public, sharing daily details about our work, including partnerships, projects, and tools.\n\nShifting away from traditional announcement models, we've embraced what we call the 'Marvel Universe model', openly outlining our ongoing projects and keeping everyone updated on their progress. We understand the pitfalls of unrealistic launch dates, which can lead to failure either through missed deadlines or rushed subpar products. To set ourselves up for success, our focus is on transparency and launching products only when they are fully ready.\n\nOur roadmap is a modular one. Anyone in the community can use the following Figma file to create their own version of a roadmap and use it on their socials.\n\nFind the roadmap here: https://www.kadena.io/roadmap",
+    "source": "kadena-info",
+    "title": "Kadena Roadmap Strategy"
+  },
+  {
+    "content": "Staking\nThere's no 'native' staking as such as Kadena is Proof of Work (PoW) and not Proof of Stake (PoS).",
+    "source": "kadena-info",
+    "title": "Staking on Kadena"
+  },
+  {
+    "content": "Kadenswap\nKadenaswap is the DEX infrastructure built by Kadena. It is not a DEX but rather a framework everyone can build upon. Projects that use the Kadenaswap infrastructure are eckoDAO and KDSwap.",
+    "source": "kadena-info",
+    "title": "Kadenswap DEX Infrastructure"
+  },
+  {
+    "content": "How to Mine KDA | Mining KDA / Kadena\nThere's three primary ways:\n\n1) Find and buy your own ASIC miner, either buy directly from a seller like Bitmain and then plug it in at your house to a 240V power source, choose a mining pool, and set your ASIC to start mining\n\n2) Choose a hosting provider to host your ASIC for you. You buy the asic and send it to your hosting provider, they charge you for electricity, make sure it keeps running, and you get the mining rewards\n\n3) Chips.finance lets you simply pay for an ASIC, pay for hosting, and you can start mining right away.\n\nQ: What is CHIPS?\nA: CHIPS is an innovative tokenised real world assets (RWA) DeFi project with a focus on generating yield from proof-of-work (PoW) crypto mining and separately tokenised energy built on the Kadena blockchain.\nTo find out more you can read this Medium article by Chips' CTO Jad for an intro to CHIPS https://medium.com/@todd_chips/welcome-to-chips-revolutionizing-cryptocurrency-mining-7eabec03cdb4 or you can watch the video here if you prefer a video https://chips-1.gitbook.io/chips.finance-documentation\nFor further details please read our full project white paper on the website https://phoenixforgeusa.com/chips",
+    "source": "kadena-info",
+    "title": "How to Mine KDA and CHIPS Information"
+  },
+  {
+    "content": "Mining Pools\nFollowing mining pools exist for Kadena\nF2Pool - https://www.f2pool.com/ (36% of hashrate - March 2024)\nAntPool - https://www.antpool.com/home (30% of hashrate - March 2024)\nPoolflare - https://poolflare.net/coin/kda/pool (26% of hashrate - March 2024)\nDXPool - https://www.dxpool.com/\nHashpool - https://hashpool.com/\nPoolmars - https://poolmars.net/",
+    "source": "kadena-info",
+    "title": "Kadena Mining Pools"
+  },
+  {
+    "content": "ASIC Miners on Kadena\nThe following are the only manufacturers of ASIC miners for Kadena: Bitmain, Goldshell, iBeLink. The hashing algorithm is blake2s_256. KDA can't be mined with GPUs or mining nodes!\nHere are the miners incl. the hashrate and power consumption\n- Bitmain Antminer KA3 166TH Kadena Miner 3154W\n- Goldshell KD Box II 5TH Kadena Miner 400W\n- Goldshell KD BOX Pro 2.6Th/s Kadena Miner 230W\n- Goldshell KD LITE KDA Miner 16.2 Th/s 1330W\n- Goldshell KD Max KDA Miner 40.2 Th/s 3350W\n- Goldshell Kd5 18 Th/s Kadena Miner 2250W\n- Goldshell KD5 Pro 24.5Th/s Kadena Miner 3000W\n- Goldshell KD6 29.2Th/s Kadena Miner 2630W\n- Goldshell KD6 SE 25.3Th/s Kadena Miner 2300W\n- Goldshell KDA Box Home Miner Kadena1600 Gh/s 205W\n- iBeLink BM K1+ 15Th/s KDA Kadena Miner 2250W\n- iBeLink BM-K1 5.3Th/s KDA Kadena Miner 835W\n- iBeLink BM-K1 Max 32Th/s KDA Kadena Miner 3200W\n- iBeLink BM-K3 Max Kadena Miner 3200W\n- iBeLink BM-K3 Mini Kadena Miner 290W\n- iBeLink K3 KDA Kadena Miner 3300W",
+    "source": "kadena-info",
+    "title": "ASIC Miners and Hardware Specifications"
+  }
+]
