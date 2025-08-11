@@ -1,36 +1,36 @@
 [
   {
-    "content": "🌐 Website of Kadena: https://kadena.io/\n📱Socials of Kadena\nKadena on X/Twitter: https://twitter.com/kadena_Io\nKadena on Telegram: https://t.me/kadena_io\nKadena on Discord: https://discord.gg/kadena\nKadena on Reddit: https://www.reddit.com/r/kadena/\nKadena on LinkedIn https://www.linkedin.com/company/kadena-llc/",
+    "content": "\ud83c\udf10 Website of Kadena: https://kadena.io/\n\ud83d\udcf1Socials of Kadena\nKadena on X/Twitter: https://twitter.com/kadena_Io\nKadena on Telegram: https://t.me/kadena_io\nKadena on Discord: https://discord.gg/kadena\nKadena on Reddit: https://www.reddit.com/r/kadena/\nKadena on LinkedIn https://www.linkedin.com/company/kadena-llc/",
     "source": "kadena-info",
     "title": "Kadena Website and Social Media"
   },
   {
-    "content": "Information about KDA including Exchanges where the token KDA is listed\nCoinMarketCap: https://coinmarketcap.com/currencies/kadena\nCoinGecko: https://www.coingecko.com/en/coins/kadena\n\n📚 Documentation of Kadena can be found here: https://docs.kadena.io/\n\n💻 Developer Tools for Kadena: https://tools.kadena.io/",
+    "content": "Information about KDA including Exchanges where the token KDA is listed\nCoinMarketCap: https://coinmarketcap.com/currencies/kadena\nCoinGecko: https://www.coingecko.com/en/coins/kadena\n\n\ud83d\udcda Documentation of Kadena can be found here: https://docs.kadena.io/\n\n\ud83d\udcbb Developer Tools for Kadena: https://tools.kadena.io/",
     "source": "kadena-info",
     "title": "KDA Token Information and Developer Resources"
   },
   {
-    "content": "🛠️ Kadena has two main GitHub repositories: 1. https://github.com/kadena-io 2. https://github.com/kadena-community | Both are official repositories by the Kadena team, no community repositories.",
+    "content": "\ud83d\udee0\ufe0f Kadena has two main GitHub repositories: 1. https://github.com/kadena-io 2. https://github.com/kadena-community | Both are official repositories by the Kadena team, no community repositories.",
     "source": "kadena-info",
     "title": "Official GitHub Repositories"
   },
   {
-    "content": "🧪 Testnet Portal of Kadena: http://testnet.chainweb.com/\nFund accounts on testnet via https://tools.kadena.io/faucet/existing for existing accounts and https://tools.kadena.io/faucet/new for new accounts [Goliath faucet has nothing to do with it]. The faucet will give you 100 KDA per request for the chain you select (chain 0-19)",
+    "content": "\ud83e\uddea Testnet Portal of Kadena: http://testnet.chainweb.com/\nFund accounts on testnet via https://tools.kadena.io/faucet/existing for existing accounts and https://tools.kadena.io/faucet/new for new accounts [Goliath faucet has nothing to do with it]. The faucet will give you 100 KDA per request for the chain you select (chain 0-19)",
     "source": "kadena-info",
     "title": "Testnet and Faucet Information"
   },
   {
-    "content": "🧩 Nodes for Kadena including setup here: https://docs.kadena.io/contribute/node\n[IMPORTANT: Nodes can not be used to mine KDA. You need an ASIC miner by Bitmain, Goldshell, or iBeLink. Those are all three manufacturers that produce those ASIC miners. No one else produces them right now.]",
+    "content": "\ud83e\udde9 Nodes for Kadena including setup here: https://docs.kadena.io/contribute/node\n[IMPORTANT: Nodes can not be used to mine KDA. You need an ASIC miner by Bitmain, Goldshell, or iBeLink. Those are all three manufacturers that produce those ASIC miners. No one else produces them right now.]",
     "source": "kadena-info",
     "title": "Node Setup and Mining Requirements"
   },
   {
-    "content": "🔍Official Block Explorer: https://explorer.chainweb.com/mainnet and a great third party explorer by Eucalyptus Labs:: https://kdaexplorer.com/\n\n⚖️ Official Balance Checker to check the balance of KDA and other tokens: https://balance.chainweb.com/\n💫 Simple Javascript Tools to transfer Kadena coins: https://transfer.chainweb.com/\nTo finish or finalize a cross-chain transaction that got stuck, you can use https://tools.kadena.io/transactions/cross-chain-transfer-finisher or https://transfer.chainweb.com/xchain.html [the KDA Command line tool or Chainweaver won't work for that request]",
+    "content": "\ud83d\udd0dOfficial Block Explorer: https://explorer.chainweb.com/mainnet and a great third party explorer by Eucalyptus Labs:: https://kdaexplorer.com/\n\n\u2696\ufe0f Official Balance Checker to check the balance of KDA and other tokens: https://balance.chainweb.com/\n\ud83d\udcab Simple Javascript Tools to transfer Kadena coins: https://transfer.chainweb.com/\nTo finish or finalize a cross-chain transaction that got stuck, you can use https://tools.kadena.io/transactions/cross-chain-transfer-finisher or https://transfer.chainweb.com/xchain.html [the KDA Command line tool or Chainweaver won't work for that request]",
     "source": "kadena-info",
     "title": "Block Explorers and Transaction Tools"
   },
   {
-    "content": "🌱Is there a website listing all the projects building on Kadena? Projects on Kadena can be found here: https://www.kadena.io/ecosystem or here: https://kadenaecosystem.com (Even those who aren't endorsed by the official team )",
+    "content": "\ud83c\udf31Is there a website listing all the projects building on Kadena? Projects on Kadena can be found here: https://www.kadena.io/ecosystem or here: https://kadenaecosystem.com (Even those who aren't endorsed by the official team )",
     "source": "kadena-info",
     "title": "Kadena Ecosystem Projects"
   },
@@ -73,5 +73,40 @@
     "content": "ASIC Miners on Kadena\nThe following are the only manufacturers of ASIC miners for Kadena: Bitmain, Goldshell, iBeLink. The hashing algorithm is blake2s_256. KDA can't be mined with GPUs or mining nodes!\nHere are the miners incl. the hashrate and power consumption\n- Bitmain Antminer KA3 166TH Kadena Miner 3154W\n- Goldshell KD Box II 5TH Kadena Miner 400W\n- Goldshell KD BOX Pro 2.6Th/s Kadena Miner 230W\n- Goldshell KD LITE KDA Miner 16.2 Th/s 1330W\n- Goldshell KD Max KDA Miner 40.2 Th/s 3350W\n- Goldshell Kd5 18 Th/s Kadena Miner 2250W\n- Goldshell KD5 Pro 24.5Th/s Kadena Miner 3000W\n- Goldshell KD6 29.2Th/s Kadena Miner 2630W\n- Goldshell KD6 SE 25.3Th/s Kadena Miner 2300W\n- Goldshell KDA Box Home Miner Kadena1600 Gh/s 205W\n- iBeLink BM K1+ 15Th/s KDA Kadena Miner 2250W\n- iBeLink BM-K1 5.3Th/s KDA Kadena Miner 835W\n- iBeLink BM-K1 Max 32Th/s KDA Kadena Miner 3200W\n- iBeLink BM-K3 Max Kadena Miner 3200W\n- iBeLink BM-K3 Mini Kadena Miner 290W\n- iBeLink K3 KDA Kadena Miner 3300W",
     "source": "kadena-info",
     "title": "ASIC Miners and Hardware Specifications"
+  },
+  {
+    "title": "Overview of Kadena and Chainweb Architecture",
+    "content": "Kadena is a Layer\u20111 blockchain network launched in 2016 by Stuart\u00a0Popejoy and Will\u00a0Martino. It uses a unique Proof\u2011of\u2011Work protocol called Chainweb. Rather than processing all transactions on a single chain like Bitcoin, Chainweb runs many independent blockchains in parallel and braids their block hashes together. This braided multi\u2011chain design enables Kadena to increase transaction throughput by adding more chains while still maintaining security, decentralization and energy efficiency. By combining multiple chains with braided hashes, Chainweb can scale horizontally without compromising the security guarantees of proof\u2011of\u2011work.",
+    "source": "kadena-info"
+  },
+  {
+    "title": "Chainweb EVM and EVM Compatibility",
+    "content": "Chainweb\u00a0EVM is Kadena\u2019s Ethereum\u2011compatible execution environment. It introduces full EVM support on Kadena\u2019s network so developers can deploy Solidity smart contracts natively while benefiting from Kadena\u2019s scalability and speed. Chainweb\u00a0EVM runs on multiple parallel EVM chains and offers ultra\u2011low gas fees, providing a familiar toolset for Ethereum developers without the high costs normally associated with EVM chains.",
+    "source": "kadena-info"
+  },
+  {
+    "title": "Multi\u2011Chain Architecture, High Throughput and Low Fees",
+    "content": "Kadena\u2019s braided multi\u2011chain architecture enables high throughput and low transaction fees. Transactions are processed across many chains at once, allowing the network to handle a large number of transfers in parallel. This design keeps transaction fees extremely low and provides a scalable foundation for dApps and users. Developers and institutions can build on a scalable multi\u2011chain architecture with high throughput and minimal fees.",
+    "source": "kadena-info"
+  },
+  {
+    "title": "Leadership and Founders",
+    "content": "Kadena was founded by Stuart\u00a0Popejoy and Will\u00a0Martino. The wider Kadena team includes alumni from JP\u00a0Morgan, the U.S.\u00a0Securities and Exchange Commission (SEC), Moody\u2019s and Goldman\u00a0Sachs. This mix of traditional finance, regulatory and technology experience informs Kadena\u2019s approach to building a secure and compliant blockchain platform.",
+    "source": "kadena-info"
+  },
+  {
+    "title": "Kadena Token Supply and Market Data",
+    "content": "KDA is the native token of the Kadena network. The total supply is capped at one\u00a0billion tokens, with roughly 327\u00a0million KDA in circulation as of August\u00a02025. The live market capitalization is around $146\u00a0million and price and supply metrics can be verified on data sites like CoinMarketCap. KDA\u2019s issuance is distributed over several decades through mining and other allocations.",
+    "source": "kadena-info"
+  },
+  {
+    "title": "KDA Trading Availability and Exchanges",
+    "content": "KDA tokens are listed on major cryptocurrency exchanges, making them accessible to traders worldwide. Trading platforms include Binance, Bybit, OKX, Gate.io, KuCoin, Bitget, MEXC and Crypto.com Exchange. Common trading pairs are KDA/USDT, KDA/BTC and KDA/USD. Availability on multiple exchanges provides liquidity and ease of access for users.",
+    "source": "kadena-info"
+  },
+  {
+    "title": "Kadena Ecosystem Projects Count",
+    "content": "The Kadena Ecosystem website tracks projects and dApps built on the Kadena network. It lists more than 100 projects building on Kadena and aims to make information about the ecosystem easily accessible to the community. The growing number of projects reflects the network\u2019s expanding developer base and application diversity.",
+    "source": "kadena-info"
   }
 ]
